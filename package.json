@@ -1,9 +1,8 @@
 {
-  "name": "vue-select",
+  "name": "@chatlands/vue-select",
   "version": "3.11.2",
   "description": "Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.",
-  "author": "Jeff Sagal <sagalbot@gmail.com>",
-  "homepage": "https://vue-select.org",
+  "author": "Luke Underwood <veryveryeasily@gmail.com>",
   "directories": {
     "doc": "docs",
     "test": "tests"
